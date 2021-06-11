@@ -2,13 +2,6 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-
-    //- El componente "Muestras" tiene las aplicaciones de todos los componentes de la base
-    //- se encuentra en src/components/Muestras.vue
-    //- Una vez el componente "Muestras" no se necesite 
-    //- Se debe borrar el "import Muestras from '../components/Muestras'" y en "components" en "<script"
-    //- esto evitará que se compile en la carpeta final de distribución
-    //-Muestras
     .titulo-principal
       .titulo-principal__numero
         span 1
@@ -199,10 +192,11 @@
           //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
           //- estas clases tambien tienen un modificador --borde
           .tarjeta.color-amarillo-claro
-            .text-center.p-4
-              .h4.text-center Herramienta selección.
-              p permite seleccionar objetos y grupos haciendo clic sobre ellos o arrastrándolos.
-              img.img-tarjet(src='@/assets/curso/img21.svg' alt='AvatarTop' style=" width:200px").m-auto.d-flex
+            .alineacion.d-flex.text-center.p-4
+              div
+                .h4.text-center Herramienta selección.
+                p permite seleccionar objetos y grupos haciendo clic sobre ellos o arrastrándolos.
+              img(src='@/assets/curso/img21.svg' alt='AvatarTop' style=" width:200px").mx-auto
       .col-md-4.col-lg-4.mb-5.mb-lg-0
         .tarjeta-avatar-arreglo
           img(src='@/assets/curso/img17.svg' alt='AvatarTop' style=" width:120px")
@@ -210,10 +204,11 @@
           //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
           //- estas clases tambien tienen un modificador --borde
           .tarjeta.color-amarillo-claro
-            .text-center.p-4
-              .h4.text-center Herramienta selección directa.
-              p Permite seleccionar puntos de ancla o segmentos de trazado individuales haciendo clic en ellos, o seleccionar un trazado o grupo entero haciendo clic en cualquier otra parte del elemento. También puede seleccionar uno o varios objetos de un grupo de objetos.
-              img(src='@/assets/curso/img22.svg' alt='AvatarTop' style=" width:200px").m-auto.align-bottom
+            .alineacion.d-flex.text-center.p-4
+              div
+                .h4.text-center Herramienta selección directa.
+                p Permite seleccionar puntos de ancla o segmentos de trazado individuales haciendo clic en ellos, o seleccionar un trazado o grupo entero haciendo clic en cualquier otra parte del elemento. También puede seleccionar uno o varios objetos de un grupo de objetos.
+              img(src='@/assets/curso/img22.svg' alt='AvatarTop' style=" width:200px").mx-auto
       .col-md-4.col-lg-4.mb-5.mb-lg-0
         .tarjeta-avatar-arreglo
           img(src='@/assets/curso/img18.svg' alt='AvatarTop' style=" width:120px")
@@ -221,10 +216,11 @@
           //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
           //- estas clases tambien tienen un modificador --borde
           .tarjeta.color-amarillo-claro
-            .text-center.p-4
-              .h4.text-center Selección de grupos, herramienta.
-              p Permite seleccionar un objeto dentro de un grupo, un único grupo dentro de varios grupos o un conjunto de grupos dentro de la ilustración. Cada clic adicional añade todos los objetos del siguiente grupo de la jerarquía.
-              img(src='@/assets/curso/img23.svg' alt='AvatarTop' style=" width:200px").m-auto
+            .alineacion.d-flex.text-center.p-4
+              div
+                .h4.text-center Selección de grupos, herramienta.
+                p Permite seleccionar un objeto dentro de un grupo, un único grupo dentro de varios grupos o un conjunto de grupos dentro de la ilustración. Cada clic adicional añade todos los objetos del siguiente grupo de la jerarquía.
+              img(src='@/assets/curso/img23.svg' alt='AvatarTop' style=" width:200px").mx-auto
     .row.mb-5.justify-content-center
       .col-md-4.col-lg-4.mb-5.mb-lg-0
         .tarjeta-avatar-arreglo
@@ -233,10 +229,11 @@
           //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
           //- estas clases tambien tienen un modificador --borde
           .tarjeta.color-amarillo-claro
-            .text-center.p-4
-              .h4.text-center Herramienta lazo.
-              p Permite seleccionar objetos, puntos de ancla o segmentos de trazado al arrastrarla alrededor de todo el objeto o de parte de este, generalmente se guía por las gamas de color.
-              img(src='@/assets/curso/img24.svg' alt='AvatarTop' style=" width:200px").m-auto
+            .alineacion.d-flex.text-center.p-4
+              div
+                .h4.text-center Herramienta lazo.
+                p Permite seleccionar objetos, puntos de ancla o segmentos de trazado al arrastrarla alrededor de todo el objeto o de parte de este, generalmente se guía por las gamas de color.
+              img(src='@/assets/curso/img24.svg' alt='AvatarTop' style=" width:200px").mx-auto
       .col-md-4.col-lg-4.mb-5.mb-lg-0
         .tarjeta-avatar-arreglo
           img(src='@/assets/curso/img20.svg' alt='AvatarTop' style=" width:120px")
@@ -244,10 +241,11 @@
           //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
           //- estas clases tambien tienen un modificador --borde
           .tarjeta.color-amarillo-claro
-            .text-center.p-4
-              .h4.text-center Varita mágica.
-              p Permite seleccionar objetos del mismo color, grosor de trazo, color de trazo, opacidad o modo de fusión haciendo clic en el objeto.
-              img(src='@/assets/curso/img25.svg' alt='AvatarTop' style=" width:200px").m-auto.flex-end
+            .alineacion.d-flex.text-center.p-4
+              div
+                .h4.text-center Varita mágica.
+                p Permite seleccionar objetos del mismo color, grosor de trazo, color de trazo, opacidad o modo de fusión haciendo clic en el objeto.
+              img(src='@/assets/curso/img25.svg' alt='AvatarTop' style=" width:200px").mx-auto
     p.mb-5 En el siguiente video aprenderá a utilizar correctamente las herramientas de selección.
     figure.mb-5
       .video
@@ -556,7 +554,7 @@
           img(src='@/assets/curso/img70.svg' alt='AvatarTop')
     p.mb-5 En el siguiente video podrá reconocer las diferentes herramientas de texto y párrafo; modificar y editar texto, y generar efectos.
 
-    //! TODO ---- AGREGAR VIDEO CUANDO ESTE LISTO -----> 
+    //! TODO ---- AGREGAR VIDEO CUANDO ESTE LISTO 
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
@@ -583,7 +581,7 @@
               .h3.mb-1 Infografia - Efectos ilustrator
               p Ejemplos de efectos de ilustrator  
             .col-sm-auto
-              a.boton.color-acento-botones(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+              a.boton.color-acento-botones(:href="obtenerLink('/downloads/Infografia_efectos_Ilustrator.pdf')" target="_blank")
                 span Descargar
                 i.fas.fa-file-download
     .h4 Efectos Photoshop
@@ -591,13 +589,13 @@
     figure.mb-5 
       img(src='@/assets/curso/img73.jpg' alt='AvatarTop')
     p.mb-5 En el siguiente video aprenderá a seleccionar una forma bidimensional y convertirla en tridimensional 
-    //! TODO ---- AGREGAR VIDEO CUANDO ESTE LISTO -----> 
+    //! TODO ---- AGREGAR VIDEO CUANDO ESTE LISTO 
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video: Leyenda del video
     p.mb-5 En el siguiente video aprenderá a seleccionar una forma bidimensional y convertirla en tridimensional 
-    //! TODO ---- AGREGAR VIDEO CUANDO ESTE LISTO -----> 
+    //! TODO ---- AGREGAR VIDEO CUANDO ESTE LISTO  
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
@@ -638,7 +636,7 @@
           b Empaquetar archivos: 
           b-none función disponible en Adobe Illustrator CS6, CC y posteriores. Puede recopilar los archivos utilizados, incluidas las fuentes (a excepción del chino, coreano y japonés) y los gráficos enlazados para distribuirlos de manera más fácil. Al empaquetar un archivo, se crea una carpeta que contiene el documento de Illustrator junto con todas las fuentes necesarias, gráficos enlazados y un informe del paquete. Este informe, se guarda como un archivo de texto, e incluye información sobre los archivos empaquetados (Adobe, 2017).
     p.mb-5 En el siguiente video aprenderá a importar y exportar elementos desde Illustrator y a enlazar e incrustar imágenes. 
-     //! TODO ---- AGREGAR VIDEO CUANDO ESTE LISTO -----> 
+     //! TODO ---- AGREGAR VIDEO CUANDO ESTE LISTO  
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
@@ -646,7 +644,7 @@
     .h5.mb-5 Para ampliar la información sobre el uso de Illustrator, se recomienda consultar la Ayuda de Adobe Illustrator CC, también disponible en el material complementario de este programa. 
     .row
       .col-lg-5
-        a.anexo.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+        a.anexo.mb-4.mb-lg-0(:href="obtenerLink('/downloads/illustrator_reference.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
@@ -676,12 +674,9 @@
   </template>
 
 <script>
-import Muestras from '../components/Muestras' // borrar una vez el componente "Muestras" no se necesite
 export default {
   name: 'Tema1',
-  components: {
-    Muestras, // borrar una vez el componente "Muestras" no se necesite
-  },
+  components: {},
   data: () => ({
     datosSlyder1: [
       {
