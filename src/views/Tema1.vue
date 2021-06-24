@@ -8,13 +8,8 @@
       h1 Producción gráfica
     .row.mb-5.justify-content-center
       .col-lg-10
-        .bloque-texto-a.color-acento-contenido.p-4.p-md-5.mb-5.color-gris
-          .row.m-0.align-items-center.justify-content-between
-            .col-lg-4.mb-4.mb-lg-0
-              .h3.mb-0 La producción gráfica es el proceso mediante el cual se lleva a cabo la creación e implementación de diversas piezas a nivel visual;
-            .col-lg-8
-              .bloque-texto-a__texto.p-4
-                p a través del uso y manejo de herramientas tecnológicas, pasando por numerosas fases que van desde el proceso de investigación y creación, hasta llegar a los medios impresos como libros, revistas, catálogos, carteles, folletos, periódicos y demás. Su funcionalidad como medio de difusión en el ámbito de las artes gráficas, el diseño y la publicidad, es el de dar a conocer de manera eficaz y asertiva una marca, un producto o un servicio, haciendo que se destaque sus principalmente características y bondades, para llevarlo a ser conocido y competitivo en el mercado.
+        .cajon.color-acento-contenido.p-4.mb-4
+          p La producción gráfica es el proceso mediante el cual se lleva a cabo la creación e implementación de diversas piezas a nivel visual; a través del uso y manejo de herramientas tecnológicas, pasando por numerosas fases que van desde el proceso de investigación y creación, hasta llegar a los medios impresos como libros, revistas, catálogos, carteles, folletos, periódicos y demás. Su funcionalidad como medio de difusión en el ámbito de las artes gráficas, el diseño y la publicidad, es el de dar a conocer de manera eficaz y asertiva una marca, un producto o un servicio, haciendo que se destaque sus principalmente características y bondades, para llevarlo a ser conocido y competitivo en el mercado.
     #t_1_1.titulo-segundo
       .h2 1.1 Software vectorial 
     .container-tarjetas.d-flex.p-1.justify-content-center

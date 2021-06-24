@@ -335,16 +335,10 @@
           li.container--azul.p-4.mb-4 
             i.fas.fa-angle-right
             | Cuál será la organización y distribución de los elementos (maquetación y diagramación).
-    .row.mb-5 
-      .col-lg-6
-        .bloque-texto-b.color-acento-contenido.claro-before.p-4.my-auto.d-flex
-          .bloque-texto-b__texto
-            span.h2.mb-0 Son tantos los componentes de estilo, forma y estructura que intervienen en los productos impresos, que cada editorial ha definido su modelo y estilo propio; 
-      .col-lg-6
-        p No se puede olvidar que la digitalización ha configurado una nueva dinámica en la industria editorial; pues aunque anteriormente se mencionan algunos de los aspectos a tomar en consideración al momento de generar un contenido editorial, desde la editorial digital también se cumplen con aquellas especificidades, aunque no hay material impreso la estructura de elaboración será la misma y en igual grado de importancia.
-          br
-          br
-          |Una corta reflexión y contextualización del tema, sugiere que la digitalización amplía de manera exponencial las posibilidades gráficas, generando una alta circulación a través de medios masivos de comunicación. En el contenido digital recobra interés lo gráfico, las posibilidades creativas, el nuevo lenguaje del color, las formas, los espacios, siendo elementos que no deben descuidarse.
+    p.mb-5  Son tantos los componentes de estilo, forma y estructura que intervienen en los productos impresos, que cada editorial ha definido su modelo y estilo propio; no se puede olvidar que la digitalización ha configurado una nueva dinámica en la industria editorial; pues aunque anteriormente se mencionan algunos de los aspectos a tomar en consideración al momento de generar un contenido editorial, desde la editorial digital también se cumplen con aquellas especificidades, aunque no hay material impreso la estructura de elaboración será la misma y en igual grado de importancia. 
+      br
+      br
+      |Una corta reflexión y contextualización del tema, sugiere que la digitalización amplia de manera exponencial las posibilidades gráficas, generando una alta circulación a través de medios masivos de comunicación. En el contenido digital recobra interés lo gráfico, las posibilidades creativas, el nuevo lenguaje del color, las formas, los espacios, siendo elementos que no deben descuidarse.
     .row.mb-5.justify-content-between
       .col-lg-6
         .h4 Editoriales
