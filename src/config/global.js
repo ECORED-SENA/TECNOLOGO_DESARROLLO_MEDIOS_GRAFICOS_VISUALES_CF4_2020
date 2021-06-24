@@ -75,12 +75,12 @@ export default {
       },
     ],
     subMenu: [
-      {
-        nombreRuta: 'actividad',
-        icono: 'far fa-question-circle',
-        titulo: 'Actividad didáctica',
-        desarrolloContenidos: true,
-      },
+      // {
+      //   nombreRuta: 'actividad',
+      //   icono: 'far fa-question-circle',
+      //   titulo: 'Actividad didáctica',
+      //   desarrolloContenidos: true,
+      // },
       {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
@@ -260,7 +260,7 @@ export default {
     {
       termino: 'Editorial',
       significado:
-        'corresponde a un articulo que expresa la opinión sobre un tema determinado, generalmente de interés público; a través de un medio de comunicación como el periódico o la revista.',
+        'corresponde a un artículo que expresa la opinión sobre un tema determinado, generalmente de interés público; a través de un medio de comunicación como el periódico o la revista.',
     },
     {
       termino: 'Exponencial',
@@ -283,7 +283,7 @@ export default {
         'es una forma de comunicación con el propósito de presentar, divulgar o promocionar productos o servicios.',
     },
     {
-      termino: 'Software vectorial:',
+      termino: 'Software vectorial',
       significado:
         'permite la creación de diseños con gran valor artístico a través de vectores, y con la ventaja que se pueden ampliar o reducir sin perder la calidad.',
     },

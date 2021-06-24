@@ -24,25 +24,25 @@
                 img(src='@/assets/curso/img78.jpg', alt='fotografía de perro')
           tr
             td La imagen corporativa es la concepción que tenemos de una  empresa, marca, producto, o servicio,  en relación a si es bueno(a) o malo(a), cuál es el valor que percibimos de la misma, si cumple con lo que promete o no, entre otras.
-            td La identidad corporativa es de gran importancia en  una organización, ya que influye en todos los ambitos decisivos de la misma. La identidad tiene que ver con los valores de la marca, su buen nombre, su espíritu y escencia, es el ADN de la misma. 
+            td La identidad corporativa es de gran importancia en  una organización, ya que influye en todos los ámbitos decisivos de la misma. La identidad tiene que ver con los valores de la marca, su buen nombre, su espíritu y esencia, es el ADN de la misma. 
           tr
             td La imagen corporativa hace referencia a los valores externos de la marca.  
             td La identidad  corporativa son los factores internos de la organización, muchas veces intangibles. 
           tr
-            td  Es percibida por la gente a traves de los servicios que proyecta la empresa en el exterior. 
+            td  Es percibida por la gente a través de los servicios que proyecta la empresa en el exterior. 
             td Se crea una identidad distintiva dentro de toda la  organización, por medio de rasgos característicos de la misma. 
           tr
             td  Lo construye el público a partir de situaciones, vivencias, o influencia de otras personas.  
             td  Se construye internamente a partir de lo que quiere y desea expresar la  misma empresa.
           tr
-            td  El concepto que tiene un cliente sobre una marca o producto es muy dificil de controlar, ya que pesan elementos como la tradición, el precio, el empaque, etc. 
+            td  El concepto que tiene un cliente sobre una marca o producto es muy difícil de controlar, ya que pesan elementos como la tradición, el precio, el empaque, etc. 
             td  Se controla a voluntad, ya que son los procesos internos de la empresa, los cuales por lo general tienen un equipo robusto de trabajo. 
     #t_2_1.titulo-segundo
       .h3 2.1 Diseño de marca y branding
     .row.mb-5 
       .col-lg-6
         p 
-          b Diseño de marca:
+          b Diseño de marca: 
           b-none El diseño de marca es la representación gráfica de los valores más relevantes de una empresa. Es parte de la cara visible de la empresa al público, esta compuesta por factores psicológicos, gráficos y visuales, intangibles, que son compartidos a los consumidores.
       .col-lg-6
         figure.mb-5 
@@ -75,7 +75,7 @@
         .row.justify-content-end
           .col-md-7.mb-4.mb-md-0
             .h4 Investigación 
-            p Antes del brief no se conoce realmente al cliente, como tampoco a la marca que representa; la cual será parte del análisis y trabajo del diseñador durante un periodo de tiempo; es por esto que, la etapa investigativa es esencial. Una vez realizada la investigación permitirá tener un mayor conocimiento del cliente, publico objetivo y herramientas requeridas, para la construcción de criterios con los cuales fundamentar la propuesta. Es importante hacer énfasis en el mercado, analizar la competencia por parte de otras marcas del sector, cuáles son las propuestas de valor que ofrecen, los clores que utilizan, las formas que emplean, las tipografías, como dinamizan el espacio, que lenguaje utilizan, cómo son los empaques, que materiales emplean, cuáles son sus estrategias, entre otros aspectos. 
+            p Antes del brief no se conoce realmente al cliente, como tampoco a la marca que representa; la cual será parte del análisis y trabajo del diseñador durante un periodo de tiempo; es por esto que, la etapa investigativa es esencial. Una vez realizada la investigación permitirá tener un mayor conocimiento del cliente, público objetivo y herramientas requeridas, para la construcción de criterios con los cuales fundamentar la propuesta. Es importante hacer énfasis en el mercado, analizar la competencia por parte de otras marcas del sector, cuáles son las propuestas de valor que ofrecen, los clores que utilizan, las formas que emplean, las tipografías, como dinamizan el espacio, que lenguaje utilizan, cómo son los empaques, que materiales emplean, cuáles son sus estrategias, entre otros aspectos. 
         
           .col-md-4
             figure
@@ -103,16 +103,16 @@
                 img(src='@/assets/curso/img129.svg' alt='AvatarTop')
                 .tarjeta.claro
                   .p-4
-                    .h4 Nombre descriptivo: 
-                    p el naming descriptivo, es aquel que en su marca cita específicamente o describe la actividad comercial principal del producto de la marca. Esta asociación de marca – producto, genera gran recordación en el cliente. 
+                    .h4 Nombre descriptivo 
+                    p El naming descriptivo, es aquel que en su marca cita específicamente o describe la actividad comercial principal del producto de la marca. Esta asociación de marca – producto, genera gran recordación en el cliente. 
                       b Por ejemplo, Burger King, pinturas Tito Pabón.
             .col-lg-6
               .tarjeta-avatar-b.hg.mb-5
                 img(src='@/assets/curso/img130.svg' alt='AvatarTop')
                 .tarjeta.claro
                   .p-4
-                    .h4 Nombres acrónimos: 
-                    p un acrónimo, es el término formado por la unión de dos o más palabras; 
+                    .h4 Nombres acrónimos 
+                    p Un acrónimo, es el término formado por la unión de dos o más palabras; 
                       b por ejemplo, docudrama, de documental dramático; MERCOSUR, de Mercado Común del Sur;
                       b-none  es más práctico decir AFE que Asociación de Futbolistas Españoles; o CAR, que Corporaciones Autónomas Regionales (Rivas, 2020). 
           .row.mb-3
@@ -121,8 +121,8 @@
                 img(src='@/assets/curso/img131.svg' alt='AvatarTop')
                 .tarjeta.claro
                   .p-4
-                    .h4 Nombres abstractos:  
-                    p refiere principalmente al uso de palabras inventadas; 
+                    .h4 Nombres abstractos  
+                    p Refiere principalmente al uso de palabras inventadas; 
                       b por ejemplo, la palabra Google, proviene de la palabra “Googol”
                       b-none , creada por el matemático norteamericano Edward Kasner y cuyo significado es diez elevado a cien. 
             .col-lg-6
@@ -130,8 +130,8 @@
                 img(src='@/assets/curso/img132.svg' alt='AvatarTop')
                 .tarjeta.claro
                   .p-4
-                    .h4 Nombres sugerentes:  
-                    p estos se construyen a partir de las sensaciones, emociones o experiencias que la marca genera en el consumidor; movilizan al cliente a la selección de dichos productos basados precisamente en la experiencia que les genera. 
+                    .h4 Nombres sugerentes 
+                    p Estos se construyen a partir de las sensaciones, emociones o experiencias que la marca genera en el consumidor; movilizan al cliente a la selección de dichos productos basados precisamente en la experiencia que les genera. 
           .row.ps-5
             .col-md-11
               p.ms-5.mb-3 
@@ -140,26 +140,31 @@
               ul.lista-ul--color.ms-5 
                 li 
                   i.fas.fa-check
-                  b Distintivo:
-                  b-none  ¿cómo se destaca el nombre entre la competencia?
+                  p
+                    b Distintivo: 
+                    b-none  ¿cómo se destaca el nombre entre la competencia?
                 li 
                   i.fas.fa-check
-                  b Sonoridad:
-                  b-none pronuncie el nombre en voz alta, ¿cómo suena? ¿es fácil de decir? ¿es poético?
+                  p
+                    b Sonoridad: 
+                    b-none pronuncie el nombre en voz alta, ¿cómo suena? ¿es fácil de decir? ¿es poético?
 
                 li 
                   i.fas.fa-check
-                  b Recuerdo:
-                  b-none  ¿es fácil recordar el nombre? ¿cuántas veces tienes que escucharlo antes de recordarlo?
+                  p
+                    b Recuerdo: 
+                    b-none  ¿es fácil recordar el nombre? ¿cuántas veces tienes que escucharlo antes de recordarlo?
                 li 
                   i.fas.fa-check
-                  b Expresión: 
-                  b-none ¿el nombre demuestra de qué se trata su marca? ¿se ajusta a la personalidad de la marca?
+                  p
+                    b Expresión:  
+                    b-none ¿el nombre demuestra de qué se trata su marca? ¿se ajusta a la personalidad de la marca?
  
                 li 
                   i.fas.fa-check
-                  b Apariencia:
-                  b-none  ¿cómo se ve la palabra impresa? ¿se ve tan bien cómo suena? (Razak, s.f.).
+                  p
+                    b Apariencia:  
+                    b-none  ¿cómo se ve la palabra impresa? ¿se ve tan bien cómo suena? (Razak, s.f.).
     
       .py-4.py-md-5(titulo="Diseño de marca" :icono="require('@/assets/curso/img85.svg')")
         .row.justify-content-end
@@ -190,12 +195,12 @@
         figure.mb-4
           img(src='@/assets/curso/img92.svg', alt='Texto que describa la imagen')
         .h4 Branding personal
-        p se refiere a personas que son su propia marca, que venden su imagen, formación, conocimiento o experiencias a un público en especifico; pueden ser conferencistas, personas de negocios, o cualquier individuo interesado en gestionar y proyectar su imagen.  
+        p Se refiere a personas que son su propia marca, que venden su imagen, formación, conocimiento o experiencias a un público en específico; pueden ser conferencistas, personas de negocios, o cualquier individuo interesado en gestionar y proyectar su imagen.  
       .col-lg-4
         figure.mb-4
           img(src='@/assets/curso/img93.svg', alt='Texto que describa la imagen')
         .h4 Country branding
-        p este branding es utilizado por ciudades o países, para vender su propia marca, con ello desean consolidarse a nivel turístico, mostrando las diferencias que los hacen únicos frente a otros lugares similares, resaltando su cultura; paisajes, comida, hospitalidad de su gente, mejores precios, entre otros. 
+        p Este branding es utilizado por ciudades o países, para vender su propia marca, con ello desean consolidarse a nivel turístico, mostrando las diferencias que los hacen únicos frente a otros lugares similares, resaltando su cultura; paisajes, comida, hospitalidad de su gente, mejores precios, entre otros. 
     .row.mb-5 
       .col-lg-4 
         figure.mb-4
@@ -254,53 +259,53 @@
           img(src='@/assets/curso/img96.svg' alt='AvatarTop')
           .tarjeta.claro
             .p-4
-              .h4 Introducción a la marca: 
-              p se deben comunicar las bases sobre las cuales se va a construir la identidad corporativa, cuales son sus valores, que filosofía empresarial tiene. 
+              .h4 Introducción a la marca 
+              p Se deben comunicar las bases sobre las cuales se va a construir la identidad corporativa, cuales son sus valores, que filosofía empresarial tiene. 
       .col-lg-6
         .tarjeta-avatar-b.hg.mb-5
           img(src='@/assets/curso/img97.svg' alt='AvatarTop')
           .tarjeta.claro
             .p-4
-              .h4 Logotipo: 
-              p debe incluir las especificaciones referentes al diseño, el espacio entre los elementos, los colores y las escalas permitidas, así como el área de seguridad. También es necesario incluir los usos correctos e incorrectos del logo para evitar posibles errores. 
+              .h4 Logotipo
+              p Debe incluir las especificaciones referentes al diseño, el espacio entre los elementos, los colores y las escalas permitidas, así como el área de seguridad. También es necesario incluir los usos correctos e incorrectos del logo para evitar posibles errores. 
     .row.mb-3
       .col-lg-6
         .tarjeta-avatar-b.hg.mb-5
           img(src='@/assets/curso/img98.svg' alt='AvatarTop')
           .tarjeta.claro
             .p-4
-              .h4 Color: 
-              p cuáles son los tonos permitidos en torno de la marca y cuáles combinaciones son inadmisibles, además de indicar los patrones para materiales impresos, así como el color HEX para aquellos digitales. 
+              .h4 Color
+              p Cuáles son los tonos permitidos en torno de la marca y cuáles combinaciones son inadmisibles, además de indicar los patrones para materiales impresos, así como el color HEX para aquellos digitales. 
       .col-lg-6
         .tarjeta-avatar-b.hg.mb-5
           img(src='@/assets/curso/img99.svg' alt='AvatarTop')
           .tarjeta.claro
             .p-4
-              .h4 Composición: 
-              p contiene las normas básicas de diseño que reflejen la intención de la marca; ayuda a crear una disposición visual distintiva.
+              .h4 Composición
+              p Contiene las normas básicas de diseño que reflejen la intención de la marca; ayuda a crear una disposición visual distintiva.
     .row.mb-3
       .col-lg-6
         .tarjeta-avatar-b.hg.mb-5
           img(src='@/assets/curso/img100.svg' alt='AvatarTop')
           .tarjeta.claro
             .p-4
-              .h4 Iconos y otros elementos: 
-              p explica como utilizar la biblioteca de íconos que la empresa incluye en impresos o medios digitales; por ejemplo, cómo utilizar el ícono de "descargar" en cuanto a tamaños y colores. 
+              .h4 Iconos y otros elementos 
+              p Explica como utilizar la biblioteca de íconos que la empresa incluye en impresos o medios digitales; por ejemplo, cómo utilizar el ícono de "descargar" en cuanto a tamaños y colores. 
       .col-lg-6
         .tarjeta-avatar-b.hg.mb-5
           img(src='@/assets/curso/img101.svg' alt='AvatarTop')
           .tarjeta.claro
             .p-4
-              .h4 Imágenes: 
-              p incluye el uso y tratamiento de las fotografías e ilustraciones, así como el tipo de enfoque permitido; por ejemplo, puede que la marca solo utilice imágenes duotono (compuestas solo por dos colores) o fotografías que transmitan diversidad.
+              .h4 Imágenes
+              p Incluye el uso y tratamiento de las fotografías e ilustraciones, así como el tipo de enfoque permitido; por ejemplo, puede que la marca solo utilice imágenes duotono (compuestas solo por dos colores) o fotografías que transmitan diversidad.
     .row.mb-3
       .col-lg-6
         .tarjeta-avatar-b.hg.mb-5
           img(src='@/assets/curso/img102.svg' alt='AvatarTop')
           .tarjeta.claro
             .p-4
-              .h4 Tipografía: 
-              p indique cómo utilizar las fuentes de tu marca, incluyendo tamaño, espaciado, uso de fondos oscuros y claros, así como combinaciones entre títulos y párrafos de texto; ejemplo, H1, H2, H3 y párrafo (Samsing, 2019). 
+              .h4 Tipografía
+              p Indique cómo utilizar las fuentes de tu marca, incluyendo tamaño, espaciado, uso de fondos oscuros y claros, así como combinaciones entre títulos y párrafos de texto; ejemplo, H1, H2, H3 y párrafo (Samsing, 2019). 
     #t_2_2.titulo-segundo
       .h3 2.2 Productos editoriales
     p.mb-5 Los podemos definir como todos aquellos productos que puedan ser impresos y que tengan como fin llegar a un público determinado; estas obras editoriales corresponden a libros, revistas, folletos, manuales técnicos y didácticos, carteles, y demás productos que requieran impresión y que en su contenido tengan una información concreta para un público especifico.
@@ -339,7 +344,7 @@
         p No se puede olvidar que la digitalización ha configurado una nueva dinámica en la industria editorial; pues aunque anteriormente se mencionan algunos de los aspectos a tomar en consideración al momento de generar un contenido editorial, desde la editorial digital también se cumplen con aquellas especificidades, aunque no hay material impreso la estructura de elaboración será la misma y en igual grado de importancia.
           br
           br
-          |Una corta reflexión y contextualización del tema, sugiere que la digitalización amplia de manera exponencial las posibilidades gráficas, generando una alta circulación a través de medios masivos de comunicación. En el contenido digital recobra interés lo gráfico, las posibilidades creativas, el nuevo lenguaje del color, las formas, los espacios, siendo elementos que no deben descuidarse.
+          |Una corta reflexión y contextualización del tema, sugiere que la digitalización amplía de manera exponencial las posibilidades gráficas, generando una alta circulación a través de medios masivos de comunicación. En el contenido digital recobra interés lo gráfico, las posibilidades creativas, el nuevo lenguaje del color, las formas, los espacios, siendo elementos que no deben descuidarse.
     .row.mb-5.justify-content-between
       .col-lg-6
         .h4 Editoriales
@@ -371,14 +376,14 @@
           img(src='@/assets/curso/img107.jpg' alt='AvatarTop' style='width:500px').m-auto
       .col-lg-6
         .h4 El libro
-        p Es una obra escrita, que en su mayoría y de manera tradicional se distribuye de manera impresa; sin embargo, hoy en día los libros tienen gran influencia de la era digital. Desde la impresión, el libro es una pieza escrita que tiene una estructura especifica ya asumida por los lectores; puede en su interior tener ilustraciones como imágenes que permitan visualizar algún contenido específico de su narrativa. Para que en su configuración se considere como un libro debe tener más de 50 página por ejemplar, de lo contrario se asume como un folleto.  Su estructura narrativa debe cumplir con los requerimientos del público según su género literario; lo anterior, debe entenderse cómo la forma narrativa del texto del libro expresa su dialogo con el lector. Entre las obras literarias se encuentran, el cuento, la novela, fabula, epopeya, suspenso y drama, cada una de ellas tendrá su propio estilo narrativo.  
+        p Es una obra escrita, que en su mayoría y de manera tradicional se distribuye de manera impresa; sin embargo, hoy en día los libros tienen gran influencia de la era digital. Desde la impresión, el libro es una pieza escrita que tiene una estructura especifica ya asumida por los lectores; puede en su interior tener ilustraciones como imágenes que permitan visualizar algún contenido específico de su narrativa. Para que en su configuración se considere como un libro debe tener más de 50 páginas por ejemplar, de lo contrario se asume como un folleto.  Su estructura narrativa debe cumplir con los requerimientos del público según su género literario; lo anterior, explica cómo la forma narrativa del texto del libro expresa su dialogo con el lector. Entre las obras literarias se encuentran, el cuento, la novela, fabula, epopeya, suspenso y drama, cada una de ellas tendrá su propio estilo narrativo.  
     #t_2_3.titulo-segundo
       .h3 2.3 Productos gráficos 
     P.mb-5 Constituyen la representación visual de una idea o concepto, hacer referencia a productos gráficos es identificar la necesidad de establecer los requerimientos necesarios para que la pieza de composición editorial se ajuste a las necesidades del cliente, su público y su marca. Para ello un producto gráfico en su proceso de desarrollo debe seguir una continuidad de pasos, para que el producto final cumpla con los requisitos en su composición editorial y composición gráfica.
     .row.mb-5.justify-content-between
       .col-lg-5
         .h4 Infografía
-        p característica de una infografía es que utiliza ilustraciones, imágenes, texto, diagramas y tabulaciones, con el fin de entregar la publico un mensaje claro y contundente, donde el observador realice una lectura e interpretación de los elementos gráficos como refuerzo del mensaje descrito. 
+        p La infografía hace parte de las piezas publicitarias que sirve como herramienta comunicativa; la mayor característica de una infografía es que utiliza ilustraciones, imágenes, texto, diagramas y tabulaciones, con el fin de entregar la publico un mensaje claro y contundente, donde el observador realice una lectura e interpretación de los elementos gráficos como refuerzo del mensaje descrito.  
           br
           br
           b Los elementos de comunicación visual que la infografía presenta generan en el lector interés por el recurso utilizado, que de manera útil y ágil establece una comunicación directa, con facilidad de interpretación y comprensión.
@@ -403,8 +408,8 @@
           //- estas clases tambien tienen un modificador --borde
           .tarjeta.claro
             .text-center.p-4.mt-5 
-              .h4.text-center Poster:  
-              p este es un documento que está compuesto principalmente por imágenes, texto y recursos gráficos. Debe ser de gran tamaño y tener una tipografía estéticamente atractiva y de fácil lectura para el transeúnte; los espacios externos son los habituales para esta clase de productos gráficos.
+              .h4.text-center Poster 
+              p Este es un documento que está compuesto principalmente por imágenes, texto y recursos gráficos. Debe ser de gran tamaño y tener una tipografía estéticamente atractiva y de fácil lectura para el transeúnte; los espacios externos son los habituales para esta clase de productos gráficos.
       .col-md-4.col-lg-4.mb-5.mb-lg-0
         .tarjeta-avatar-arreglo
           img(src='@/assets/curso/img111.svg' alt='AvatarTop' style=" width:120px")
@@ -413,8 +418,8 @@
           //- estas clases tambien tienen un modificador --borde
           .tarjeta.claro
             .text-center.p-4.mt-5 
-              .h4.text-center Afiche: 
-              p su intención comunicativa es la de convencer e invitar al público para adquirir un producto o servicio, o convencer al lector sobre algo determinado; por lo tanto, su texto informativo debe ser corto y contundente, con un diseño equilibrado entre elementos gráficos y texto, que permitan captar la atención de los usuarios. 
+              .h4.text-center Afiche
+              p Su intención comunicativa es la de convencer e invitar al público para adquirir un producto o servicio, o convencer al lector sobre algo determinado; por lo tanto, su texto informativo debe ser corto y contundente, con un diseño equilibrado entre elementos gráficos y texto, que permitan captar la atención de los usuarios. 
       .col-md-4.col-lg-4.mb-5.mb-lg-0
         .tarjeta-avatar-arreglo
           img(src='@/assets/curso/img112.svg' alt='AvatarTop' style=" width:120px")
@@ -423,8 +428,8 @@
           //- estas clases tambien tienen un modificador --borde
           .tarjeta.claro
             .text-center.p-4.mt-5 
-              .h4.text-center Cartel: 
-              p a diferencia de los anteriores documentos gráficos, el cartel tiene como objetivo comunicar ideas, es decir, brindar información a la persona que lo observa; su tamaño no es estrictamente grande, tiene una combinación de imágenes y texto limitado, la información que ofrece debe ser original y básica para lograr una comunicación efectiva con el público. 
+              .h4.text-center Cartel 
+              p A diferencia de los anteriores documentos gráficos, el cartel tiene como objetivo comunicar ideas, es decir, brindar información a la persona que lo observa; su tamaño no es estrictamente grande, tiene una combinación de imágenes y texto limitado, la información que ofrece debe ser original y básica para lograr una comunicación efectiva con el público. 
     p.mb-5 En los tres casos anteriores, los documentos gráficos deben ser visualmente atractivos y sugestivos desde la utilización de colores y tipografía, aspecto fundamental para que el contenido temático sea llamativo para el receptor. Además, deben tener un balance, el cual se traduce en los elementos necesarios entre texto, imagen e ilustraciones; de esta manera lograr que la comunicación que se establece con el público sea efectiva, y le permita al observador captar y comprender el punto central de la información.
     .row.mb-5.justify-content-between
       .col-lg-6
@@ -482,7 +487,7 @@
       .col-lg-6
         .bloque-texto-b.color-acento-contenido.claro-before.p-4.my-auto.d-flex
           .bloque-texto-b__texto
-            span.h2.mb-0 Hace referencia a un producto tangible, con un valor simbólico, que tiene como requisito entregar una información persuasiva a un publico en particular, con el objetivo de motivar el interés y generar aceptación y gusto por una marca;  
+            span.h2.mb-0 Hace referencia a un producto tangible, con un valor simbólico, que tiene como requisito entregar una información persuasiva a un público en particular, con el objetivo de motivar el interés y generar aceptación y gusto por una marca;  
       .col-lg-6.my-auto
         p.my-auto como producto publicitario es generador de comunicación, busca orientar estrategias para  dar a conocer productos y servicios a partir de la identificar de las necesidades del publico; el producto publicitario cumple con el objetivo cuando comunica de manera convincente la marca influyendo en el comportamiento de compra de un potencial cliente. 
     .row.mb-5.justify-content-between
@@ -510,9 +515,8 @@
         figure 
           img(src='@/assets/curso/img117.jpg' alt='AvatarTop' style='width:621px').m-auto
       .col-lg-5
-        .h4 Material P.O.P.
         p Respecto a las impresione en los diferentes artículos mencionados, es importante tener en cuenta que se deben cumplir con unos estándares de calidad, que garanticen que la marca tenga una buena representación en los artículos; estos aspectos son: la impresión, tamaño de la impresión, el diseño, mensaje e imagen del producto, los cuales deben ser claros y de muy buena presentación en su composición, de igual manera los textos tienen que tener una tipografía adecuada, que se ajuste al concepto de la marca.
-    p.mb-5 Las piezas P.O.P deben comunicar el mensaje de una forma clara y breve, sus diseños no deben generar ninguna distracción visual y deben destacar lo más significativo de la marca; el contraste en los colores, la intensidad de sus líneas, y las estructuras de las piezas gráficas deben ser estables al momento de la impresión, esto se percibe a través del color, y las formas; pues estos artículos su diseño e impresión son una ventana para la marca, es una trasferencia clara de lo que la marca puede ofrecerle al cliente y esto se puede representar en calidad, inmediatez, servicio, distinción, es decir; transmitirle al cliente lo mejor de la marca. Por supuesto no   debemos olvidar los enlaces web dentro del diseño, que remita al sito web de la empresa o sus redes sociales.
+    p.mb-5 Las piezas P.O.P deben comunicar el mensaje de una forma clara y breve, sus diseños no deben generar ninguna distracción visual y deben destacar lo más significativo de la marca; el contraste en los colores, la intensidad de sus líneas, y las estructuras de las piezas gráficas deben ser estables al momento de la impresión, esto se percibe a través del color, y las formas; pues estos artículos su diseño e impresión son una ventana para la marca, es una trasferencia clara de lo que la marca puede ofrecerle al cliente y esto se puede representar en calidad, inmediatez, servicio, distinción, es decir; transmitirle al cliente lo mejor de la marca. Por supuesto no   debemos olvidar los enlaces web dentro del diseño, que remita al sitio web de la empresa o sus redes sociales.
       br
       br
       |Los artículos más utilizados como estrategia publicitaria son:
@@ -539,7 +543,7 @@
             img(src='@/assets/curso/img122.svg' alt='AvatarTop' style='width:84px').mb-3.d-inline-block.me-3
             p.d-inline-block.pe-5
               b Camiseta, gorras, pañoletas.
-    p.mb-5 En fin, todos artículos que permitan impresión y que puedan ser no solo utilizados sino también exhibidos por los clientes en su día a día, en sus sitios de trabajo u otros contextos, lo cual posibilitará que otras personas también conozcan la marca.
+    p.mb-5 En fin, todos los artículos que permitan impresión y que puedan ser no solo utilizados sino también exhibidos por los clientes en su día a día, en sus sitios de trabajo u otros contextos, lo cual posibilitará que otras personas también conozcan la marca.
     #t_2_5.titulo-segundo
       .h3 2.5. Productos corporativos
     .row.mb-5.justify-content-between
@@ -569,7 +573,7 @@
           p Como generador de contenido grafico debe tener en cuenta cuales son las funciones de un brochure y el para qué de su realización; una de estas funciones es informativa; tiene como objetivo dar a conocer que sucede, como se desarrolla algún tema en particular o general, desde ahí habrá que saber que estilo de contenido textual, gráfico y fotográfico se utilizará; otra función es la publicitaria en la cual su dialogo al exterior tiene otros valores estéticos, estilísticos y funcionales. La última función es la representativa; donde se asume el brochure como un elemento integral de la empresa; parte de ella, no solo por el contenido, por lo que dice, por lo que expone; sino también por lo que proyecta; respeto, credibilidad, entendimiento, entre otros elementos que no solo se pueden observar en el folleto, si no también se pueden intuir desde el diseño visual.
             br
             br
-            |En el desarrollo del folleto como pieza grafica, se debe considerar elementos como: 
+            |En el desarrollo del folleto como pieza gráfica, se debe considerar elementos como: 
             b el contenido, el formato, el diseño y la impresión.
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
       .row(titulo="El contenido").p-3
@@ -577,7 +581,7 @@
       .row(titulo="El formato").p-3
         p En el formato, se hace referencia a las dimensiones de la pieza grafica o el folleto; las más comunes son las medidas estándar como: 
           b A1, A2, A3, A4, A5, A6, etc. 
-          b-none Si se tiene la posibilidad de utilizar formatos no estandarizados que permitan tener una superficie más amplia y por tanto más contenido, esto puede generar mayor impacto en el publico focal.  Sin embargo, sea cual sea el formato, lo ideal es aprovechar al máximo toda la superficie para el contenido. 
+          b-none Si se tiene la posibilidad de utilizar formatos no estandarizados que permitan tener una superficie más amplia y por tanto más contenido, esto puede generar mayor impacto en el público focal.  Sin embargo, sea cual sea el formato, lo ideal es aprovechar al máximo toda la superficie para el contenido. 
       .row(titulo="El diseño").p-3
         p En cuanto al diseño que es la parte por supuesto más llamativa, hay que tener en cuenta algunas pautas para desarrollar una adecuada pieza publicitaria, aunque un folleto en la mayoría de los casos tiene seis caras por sus tres pliegues, o cuatro caras por sus dos pliegues, siempre debe llevar una portada; esto es importante pues será el primer contacto que el cliente tendrá con la pieza, por lo que deberá contener información general sobre lo que contendrá el folleto.
           br

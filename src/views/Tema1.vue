@@ -29,9 +29,19 @@
         img(src='@/assets/curso/img4.svg', alt='dibujo vectorial zorro' style='width:260px').py-5.m-auto
     p.mb-5 Para una mejor comprensión es importante definir qué es una imagen vectorial y qué es una imagen de mapas de bits, sus diferencias, manejos y usos.
     .tarjeta.tarjeta--gris.p-5.mb-5
-      SlyderB.mb-5(:datos="datosSlyder1")
+        .row
+          .col-lg-4
+            h4 Imagen vectorial
+            p.mb Una imagen vectorial es aquella realizada por medio de vectores, objetos definidos a partir de puntos unidos por líneas que forman figuras geométricas, para realizar dibujos, ilustraciones, logotipos, etc.
+          .col-lg-8
+            SlyderC(:datos="datosSlyder1")
     .tarjeta.tarjeta--gris.p-5.mb-5
-      SlyderB.mb-5(:datos="datosSlyder2")
+      .row
+          .col-lg-4
+            h4 Imagen mapa de bits
+            p.mb La imagen de mapa de bits es una imagen conformada por pequeños puntos de color llamados píxeles, cada uno contiene un color y ciertas características. A mayor cantidad de puntos se obtiene una mayor resolución y a menor cantidad de estos una baja en la calidad de imagen. Estas imágenes son las que generalmente conocemos como fotografías y están representadas por dos números que simbolizan la cantidad de puntos a lo largo y ancho, por ejemplo 1280 x 720.
+          .col-lg-8
+            SlyderC(:datos="datosSlyder2")
     p.mb-5 A continuación, se presenta un cuadro comparativo para imagen vectorial e imagen mapa de bits. 
     .tabla-a.color-acento-botones.mb-5 
       table
@@ -122,37 +132,37 @@
           li.cuadro-amarillo.p-2 
             i.fas.fa-chevron-circle-right.color-icon
             p
-              b Espaciado:
+              b Espaciado: 
               b-none espacio entre caracteres. 
           li.cuadro-amarillo.p-2 
             i.fas.fa-chevron-circle-right.color-icon
             p
-              b Columnas:
+              b Columnas: 
               b-none número de columnas, esto en caso de ser utilizadas.
           li.cuadro-amarillo.p-2 
             i.fas.fa-chevron-circle-right.color-icon
             p
-              b Área de recorte:
+              b Área de recorte: 
               b-none es el tamaño del formato a utilizar, carta, legal, tabloide, etc.
           li.cuadro-amarillo.p-2 
             i.fas.fa-chevron-circle-right.color-icon
             p
-              b Anchura y altura:
+              b Anchura y altura: 
               b-none en caso de querer utilizar un formato de tamaño diferente a los que se presentan en el icono anterior, puede de manera manual introducir las medidas del formato en el cual desea trabajar.
           li.cuadro-amarillo.p-2 
             i.fas.fa-chevron-circle-right.color-icon
             p
-              b Unidades: 
+              b Unidades:  
               b-none aquí el programa nos da la opción de seleccionar diferentes unidades de medida como milímetros, centímetros, picas, pixeles. Es recomendable desde el inicio seleccionar centímetros, que es la medida en la cual se trabajo en nuestro medio. 
           li.cuadro-amarillo.p-2 
             i.fas.fa-chevron-circle-right.color-icon
             p
-              b Orientación:
+              b Orientación: 
               b-none haga clic sobre el tipo de orientación que desea utilizar, vertical u horizontal.
           li.cuadro-amarillo.p-2 
             i.fas.fa-chevron-circle-right.color-icon
             p
-              b Sangrado: 
+              b Sangrado:  
               b-none seleccione el sangrado a utilizar en los 4 costados, si es necesario. Finalmente haga clic en 
               b “OK,” 
               b-none para comenzar a trabajar.
@@ -164,26 +174,31 @@
           img(src='@/assets/curso/img15.png', alt='Interfaz illustrator')
       .tarjeta.color-secundario.p-3(x="34.8%" y="3%")
         .h3.mb-2 A- Menú principal:
-        p la barra en el extremo superior es la barra de menú, desde aquí podrá acceder a diferentes opciones de menú, como archivo, edición, objeto, texto, entre otros.
+        p La barra en el extremo superior es la barra de menú, desde aquí podrá acceder a diferentes opciones de menú, como archivo, edición, objeto, texto, entre otros.
       .tarjeta.color-secundario.p-3(x="55.3%" y="4.2%")
         .h3.mb-2 B- Opciones de herramienta:
-        p aquí se abren diferentes opciones para cada herramienta que utilizamos, por el ejemplo propiedades de color, grosor y forma.
+        p Aquí se abren diferentes opciones para cada herramienta que utilizamos, por el ejemplo propiedades de color, grosor y forma.
       .tarjeta.color-secundario.p-3(x="92.4%" y="30.7%")
         .h3.mb-2 C- Paneles flotantes: 
-        p son paneles en donde podrá visualizar las propiedades de las herramientas que está utilizando.
+        p Son paneles en donde podrá visualizar las propiedades de las herramientas que está utilizando.
       .tarjeta.color-secundario.p-3(x="44%" y="8%")
         .h3.mb-2 D- Panel de control:
-        p en esta pestaña se visualizan los diferentes controles de las herramientas seleccionadas.
+        p En esta pestaña se visualizan los diferentes controles de las herramientas seleccionadas.
       .tarjeta.color-secundario.p-3(x="6.5%" y="26.6%")
         .h3.mb-2 E- Barra de herramientas: 
-        p el panel alargado que observa en la imagen de la derecha es el panel de herramientas, ahí puede ver en forma de íconos todas las herramientas disponibles en Illustrator.
+        p El panel alargado que observa en la imagen de la derecha es el panel de herramientas, ahí puede ver en forma de íconos todas las herramientas disponibles en Illustrator.
           br
           br
           |Algunas de ellas tienen un pequeño triángulo en su esquina inferior derecha, este es el indicador de que hay un grupo de herramientas ocultas. Si posiciona el cursor sobre alguno de estos iconos y lo mantiene pulsado un instante, se desplegará la lista de herramientas pertenecientes al grupo. 
       .tarjeta.color-secundario.p-3(x="44.8%" y="33%")
         .h3.mb-2 F- Mesas de trabajo: 
-        p es el espacio de trabajo, que en Illustrator llamaremos mesas de trabajo.
+        p Es el espacio de trabajo, que en Illustrator llamaremos mesas de trabajo.
     p.mb-5 El siguiente video le permitirá conocer la interfaz de usuario de Illustrator
+      //! TODO ---- AGREGAR VIDEO CUANDO ESTE LISTO  
+    figure.mb-5
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: Leyenda del video
     .row.mb-5.justify-content-center
       .col-md-4.col-lg-4.mb-5.mb-lg-0
         .tarjeta-avatar-arreglo
@@ -194,8 +209,8 @@
           .tarjeta.color-amarillo-claro
             .alineacion.d-flex.text-center.p-4
               div
-                .h4.text-center Herramienta selección.
-                p permite seleccionar objetos y grupos haciendo clic sobre ellos o arrastrándolos.
+                .h4.text-center Herramienta selección
+                p Permite seleccionar objetos y grupos haciendo clic sobre ellos o arrastrándolos.
               img(src='@/assets/curso/img21.svg' alt='AvatarTop' style=" width:200px").mx-auto
       .col-md-4.col-lg-4.mb-5.mb-lg-0
         .tarjeta-avatar-arreglo
@@ -206,7 +221,7 @@
           .tarjeta.color-amarillo-claro
             .alineacion.d-flex.text-center.p-4
               div
-                .h4.text-center Herramienta selección directa.
+                .h4.text-center Herramienta selección directa
                 p Permite seleccionar puntos de ancla o segmentos de trazado individuales haciendo clic en ellos, o seleccionar un trazado o grupo entero haciendo clic en cualquier otra parte del elemento. También puede seleccionar uno o varios objetos de un grupo de objetos.
               img(src='@/assets/curso/img22.svg' alt='AvatarTop' style=" width:200px").mx-auto
       .col-md-4.col-lg-4.mb-5.mb-lg-0
@@ -218,7 +233,7 @@
           .tarjeta.color-amarillo-claro
             .alineacion.d-flex.text-center.p-4
               div
-                .h4.text-center Selección de grupos, herramienta.
+                .h4.text-center Selección de grupos, herramienta
                 p Permite seleccionar un objeto dentro de un grupo, un único grupo dentro de varios grupos o un conjunto de grupos dentro de la ilustración. Cada clic adicional añade todos los objetos del siguiente grupo de la jerarquía.
               img(src='@/assets/curso/img23.svg' alt='AvatarTop' style=" width:200px").mx-auto
     .row.mb-5.justify-content-center
@@ -231,7 +246,7 @@
           .tarjeta.color-amarillo-claro
             .alineacion.d-flex.text-center.p-4
               div
-                .h4.text-center Herramienta lazo.
+                .h4.text-center Herramienta lazo
                 p Permite seleccionar objetos, puntos de ancla o segmentos de trazado al arrastrarla alrededor de todo el objeto o de parte de este, generalmente se guía por las gamas de color.
               img(src='@/assets/curso/img24.svg' alt='AvatarTop' style=" width:200px").mx-auto
       .col-md-4.col-lg-4.mb-5.mb-lg-0
@@ -243,7 +258,7 @@
           .tarjeta.color-amarillo-claro
             .alineacion.d-flex.text-center.p-4
               div
-                .h4.text-center Varita mágica.
+                .h4.text-center Varita mágica
                 p Permite seleccionar objetos del mismo color, grosor de trazo, color de trazo, opacidad o modo de fusión haciendo clic en el objeto.
               img(src='@/assets/curso/img25.svg' alt='AvatarTop' style=" width:200px").mx-auto
     p.mb-5 En el siguiente video aprenderá a utilizar correctamente las herramientas de selección.
@@ -251,6 +266,7 @@
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video: Leyenda del video
+    h3 Herramientas de dibujo 
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
       .row(titulo="Pluma").justify-content-center.p-4
         .col-lg-7
@@ -263,22 +279,22 @@
           .d-flex.align-items-center
             img(src='@/assets/curso/img27.svg' alt='AvatarTop' style='width:84px').mb-3.d-inline-block.me-3
             p.d-inline-block.pe-5
-              b Pluma: 
+              b Pluma:  
               b-none permite dibujar un trazado, haciendo puntos de ancla.
           .d-flex.align-items-center
             img(src='@/assets/curso/img28.svg' alt='AvatarTop' style='width:84px').mb-3.d-inline-block.me-3
             p.d-inline-block.pe-5
-              b Añadir punto de ancla:
+              b Añadir punto de ancla: 
               b-none agrega nodos o puntos a un trazado. 
           .d-flex.align-items-center
             img(src='@/assets/curso/img29.svg' alt='AvatarTop' style='width:84px').mb-3.d-inline-block.me-3
             p.d-inline-block.pe-5
-              b Eliminar punto de ancla:
+              b Eliminar punto de ancla: 
               b-none quita nodos o puntos a un trazado. 
           .d-flex.align-items-center
             img(src='@/assets/curso/img30.svg' alt='AvatarTop' style='width:84px').mb-3.d-inline-block.me-3
             p.d-inline-block.pe-5
-              b Punto de ancla:
+              b Punto de ancla: 
               b-none convierte curvas en ángulos, y ángulos en curvas.
       div(titulo="Curvatura").justify-content-center.p-4
         .d-flex.align-items-center
@@ -318,6 +334,7 @@
           .d-flex
             img(src='@/assets/curso/img39.jpg' alt='AvatarTop' style='width:184px').mb-3.d-inline-block.me-3
             p.d-inline-block.pe-5 En el caso de las herramientas polígono y estrella, podemos colocar la cantidad de lados que deseamos tenga una forma; por ejemplo, si se quiere dibujar una estrella de 9 puntas, lo primero que se debe hacer es seleccionar la herramienta estrella, luego ubicarse en la mesa de trabajo, dar clic izquierdo sobre el ratón, seguidamente se abre el siguiente cuadro en donde podemos determinar la cantidad de lados de la figura.
+          p.mb-5 Para termina haga clic en el botón OK, automáticamente el programa dibuja la forma.
         .col-lg-4
           .d-flex.align-items-center
             img(src='@/assets/curso/img40.svg' alt='AvatarTop' style='width:84px').mb-3.d-inline-block.me-3
@@ -447,28 +464,28 @@
             .lista-ol--cuadro__vineta
               span 1
             p
-              b Mostrar todas las muestras:
+              b Mostrar todas las muestras: 
               b-none visualiza todas las muestras de color existentes.
 
           li 
             .lista-ol--cuadro__vineta
               span 2
             p
-              b Mostrar muestras de color:
+              b Mostrar muestras de color: 
               b-none muestra todos los colores, a excepción de las muestras de colores degradados y de motivo.
 
           li 
             .lista-ol--cuadro__vineta
               span 3
             p
-              b Mostrar muestras de degradado:
+              b Mostrar muestras de degradado: 
               b-none muestra los degradados existentes.
  
           li 
             .lista-ol--cuadro__vineta
               span 4
             p
-              b Mostrar grupos de colores:
+              b Mostrar grupos de colores: 
               b-none presenta los colores en dos grupos, los grises y los brillantes. 
     figure.mb-5
       img(src='@/assets/curso/img61.svg' alt='AvatarTop' style='width:915px').m-auto
@@ -519,35 +536,37 @@
         .d-flex.mb-3
             img(src='@/assets/curso/img64.svg' alt='AvatarTop' style='width:84px').mb-3.me-3.d-inline-flex
             p.d-inline-block.pe-5
-              b La herramienta texto
+              b Herramienta texto: 
               b-none permiten escribir en cualquier parte de la mesa de trabajo, solo hay que seleccionar la herramienta, hacer clic en la mesa de trabajo y escribir. 
         .d-flex.mb-3
             img(src='@/assets/curso/img65.svg' alt='AvatarTop' style='width:84px').mb-3.me-3.d-inline-flex
             p.d-inline-block.pe-5
-              b Herramienta texto en trazado:
+              b Herramienta texto en trazado: 
               b-none el texto toma el orden del trazado dibujado. 
         .d-flex
             img(src='@/assets/curso/img66.svg' alt='AvatarTop' style='width:84px').mb-3.me-3.d-inline-flex
             p.d-inline-block.pe-5
-              b Herramienta texto de área vertical:
+              b Herramienta texto de área vertical: 
               b-none hace que el texto contenido en una figura vertical tome esta dirección. 
       .col-lg-6
         .d-flex.mb-3
             img(src='@/assets/curso/img67.svg' alt='AvatarTop' style='width:84px').mb-3.me-3.d-inline-flex
             p.d-inline-block.pe-5
-              b Herramienta texto de área:
+              b Herramienta texto de área: 
               b-none el texto se limita dentro de un área de trabajo específica. 
         .d-flex.mb-3
             img(src='@/assets/curso/img68.svg' alt='AvatarTop' style='width:84px').mb-3.me-3.d-inline-flex
             p.d-inline-block.pe-5
-              b Herramienta texto vertical:
+              b Herramienta texto vertical: 
               b-none  hace que el texto se dirija esta dirección. 
         .d-flex
             img(src='@/assets/curso/img69.svg' alt='AvatarTop' style='width:84px').mb-3.me-3.d-inline-flex
             p.d-inline-block.pe-5
-              b Herramienta texto vertical en trazado:
+              b Herramienta texto vertical en trazado: 
               b-none  hace que el texto fluya de manera vertical.
-    p.mb-5 En opciones de herramienta menú “Ventana”, abrimos la opción de texto, donde puede editar varios aspectos como el tamaño de fuente, interlineado, kerning, tracking, tipo de párrafo, etc. 
+    p.mb-5 En opciones de herramienta menú 
+      b “Ventana”
+      b-none , abrimos la opción de texto, donde puede editar varios aspectos como el tamaño de fuente, interlineado, kerning, tracking, tipo de párrafo, etc. 
     .row.mb-5.justify-content-center
       .col-lg-10
         figure
@@ -566,7 +585,7 @@
               .col-lg-8.mb-4.mb-lg-0
                 .h3.mb-0 Illustrator permite trabajar varios efectos. A partir de formas básicas realizar objetos tridimensionales.  En el panel superior del menú principal, encontramos el comando 
                   spam.span--naranja “efecto”
-                  | donde puede encontrar dichas herramientas. 
+                  | , donde puede encontrar dichas herramientas. 
               .col-lg-4
                 figure
                   img(src='@/assets/curso/img71.jpg' alt='AvatarTop' style='width:196px')
@@ -612,14 +631,17 @@
           b-none en su gran mayoría cuando se trabaja textos en cualquier programa, se utilizan algunas fuentes tipográficas, es necesario llevar consigo las carpetas de dichas fuentes, ya que en muchos de los sitios de impresión es probable que no cuenten con las mismas, esto se hace para que no haya cambios imprevistos en el trabajo.
           br
           br
-          |Si no se cuenta con esta posibilidad, en el menú “texto – crear contornos”, puede convertir la tipografía en trazo.
+          |Si no se cuenta con esta posibilidad, en el menú 
+          b “texto – crear contornos” 
+          b-none , puede convertir la tipografía en trazo.
+          
     .row.mb-5 
       .col-lg-6
         figure.mb-5 
           img(src='@/assets/curso/img75.svg' alt='AvatarTop' style='width:500px').m-auto
       .col-lg-6
         p 
-          b Enlazar e incrustar:
+          b Enlazar e incrustar: 
           b-none se emplean los términos enlazar e incrustar, para textos como imágenes. Enlazar hace referencia a que la imagen está conectada, pero es independiente del documento; mientras que incrustar la imagen se copia en el documento a resolución completa. 
           br
           br
@@ -680,44 +702,26 @@ export default {
   data: () => ({
     datosSlyder1: [
       {
-        titulo: 'Imagen vectorial',
-        texto:
-          'Una imagen vectorial es aquella realizada por medio de vectores, objetos definidos a partir de puntos unidos por líneas que forman figuras geométricas, para realizar dibujos, ilustraciones, logotipos, etc.',
         imagen: require('@/assets/curso/img5.svg'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
-        titulo: 'Imagen vectorial',
-        texto:
-          'Una imagen vectorial es aquella realizada por medio de vectores, objetos definidos a partir de puntos unidos por líneas que forman figuras geométricas, para realizar dibujos, ilustraciones, logotipos, etc.',
         imagen: require('@/assets/curso/img6.svg'),
       },
       {
-        titulo: 'Imagen vectorial',
-        texto:
-          'Una imagen vectorial es aquella realizada por medio de vectores, objetos definidos a partir de puntos unidos por líneas que forman figuras geométricas, para realizar dibujos, ilustraciones, logotipos, etc.',
         imagen: require('@/assets/curso/img7.svg'),
       },
     ],
     datosSlyder2: [
       {
-        titulo: 'Imagen mapa de bits',
-        texto:
-          'La imagen de mapa de bits es una imagen conformada por pequeños puntos de color llamados píxeles, cada uno contiene un color y ciertas características. A mayor cantidad de puntos se obtiene una mayor resolución y a menor cantidad de estos una baja en la calidad de imagen. Estas imágenes son las que generalmente conocemos como fotografías y están representadas por dos números que simbolizan la cantidad de puntos a lo largo y ancho, por ejemplo 1280 x 720.',
         imagen: require('@/assets/curso/img8.jpg'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
-        titulo: 'Imagen mapa de bits',
-        texto:
-          'La imagen de mapa de bits es una imagen conformada por pequeños puntos de color llamados píxeles, cada uno contiene un color y ciertas características. A mayor cantidad de puntos se obtiene una mayor resolución y a menor cantidad de estos una baja en la calidad de imagen. Estas imágenes son las que generalmente conocemos como fotografías y están representadas por dos números que simbolizan la cantidad de puntos a lo largo y ancho, por ejemplo 1280 x 720.',
         imagen: require('@/assets/curso/img9.jpg'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
-        titulo: 'Imagen mapa de bits',
-        texto:
-          'La imagen de mapa de bits es una imagen conformada por pequeños puntos de color llamados píxeles, cada uno contiene un color y ciertas características. A mayor cantidad de puntos se obtiene una mayor resolución y a menor cantidad de estos una baja en la calidad de imagen. Estas imágenes son las que generalmente conocemos como fotografías y están representadas por dos números que simbolizan la cantidad de puntos a lo largo y ancho, por ejemplo 1280 x 720.',
         imagen: require('@/assets/curso/img10.jpg'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
