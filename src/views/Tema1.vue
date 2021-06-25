@@ -329,7 +329,7 @@
           .d-flex
             img(src='@/assets/curso/img39.jpg' alt='AvatarTop' style='width:184px').mb-3.d-inline-block.me-3
             p.d-inline-block.pe-5 En el caso de las herramientas polígono y estrella, podemos colocar la cantidad de lados que deseamos tenga una forma; por ejemplo, si se quiere dibujar una estrella de 9 puntas, lo primero que se debe hacer es seleccionar la herramienta estrella, luego ubicarse en la mesa de trabajo, dar clic izquierdo sobre el ratón, seguidamente se abre el siguiente cuadro en donde podemos determinar la cantidad de lados de la figura.
-          p.mb-5 Para termina haga clic en el botón OK, automáticamente el programa dibuja la forma.
+          p.mb-5 Para terminar haga clic en el botón OK, automáticamente el programa dibuja la forma.
         .col-lg-4
           .d-flex.align-items-center
             img(src='@/assets/curso/img40.svg' alt='AvatarTop' style='width:84px').mb-3.d-inline-block.me-3
@@ -373,12 +373,12 @@
           .d-flex
             img(src='@/assets/curso/img50.svg' alt='AvatarTop' style='width:84px').mb-3.me-3.d-inline-flex
             p.d-inline-block.pe-5
-              b  Lápiz:
-              b-none Se utiliza como un lápiz normal, el cual dibuja la línea por donde se realiza el trazo. 
+              b  Lápiz: 
+              b-none se utiliza como un lápiz normal, el cual dibuja la línea por donde se realiza el trazo. 
           .d-flex
             img(src='@/assets/curso/img51.svg' alt='AvatarTop' style='width:84px').mb-3.me-3.d-inline-flex
             p.d-inline-block.pe-5
-              b  Herramienta suavizar:
+              b  Herramienta suavizar: 
               b-none suaviza el dibujo realizado con el lápiz, lo vuelve armónico, y quita las imperfecciones del mismo, simplemente se pasa por encima del trazo anteriormente realizado y así se suaviza. 
     p.mb-5 En el siguiente video conocerá las principales herramientas de dibujo para la ilustración.
     figure.mb-5
@@ -484,7 +484,7 @@
               b-none presenta los colores en dos grupos, los grises y los brillantes. 
     figure.mb-5
       img(src='@/assets/curso/img61.svg' alt='AvatarTop' style='width:915px').m-auto
-    p.mb-5 En la barra superior del menú principal, dirijase al menú “ventana”, desde el cual puede gestionar varias herramientas: color, degradado, guía de color, muestras.
+    p.mb-5 En la barra superior del menú principal, diríjase al menú “ventana”, desde el cual puede gestionar varias herramientas: color, degradado, guía de color, muestras.
       br
       br
       |Ejemplo:

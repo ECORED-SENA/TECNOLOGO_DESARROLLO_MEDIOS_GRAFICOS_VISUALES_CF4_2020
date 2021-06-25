@@ -338,7 +338,7 @@
     p.mb-5  Son tantos los componentes de estilo, forma y estructura que intervienen en los productos impresos, que cada editorial ha definido su modelo y estilo propio; no se puede olvidar que la digitalización ha configurado una nueva dinámica en la industria editorial; pues aunque anteriormente se mencionan algunos de los aspectos a tomar en consideración al momento de generar un contenido editorial, desde la editorial digital también se cumplen con aquellas especificidades, aunque no hay material impreso la estructura de elaboración será la misma y en igual grado de importancia. 
       br
       br
-      |Una corta reflexión y contextualización del tema, sugiere que la digitalización amplia de manera exponencial las posibilidades gráficas, generando una alta circulación a través de medios masivos de comunicación. En el contenido digital recobra interés lo gráfico, las posibilidades creativas, el nuevo lenguaje del color, las formas, los espacios, siendo elementos que no deben descuidarse.
+      |Una corta reflexión y contextualización del tema, sugiere que la digitalización amplía de manera exponencial las posibilidades gráficas, generando una alta circulación a través de medios masivos de comunicación. En el contenido digital recobra interés lo gráfico, las posibilidades creativas, el nuevo lenguaje del color, las formas, los espacios, siendo elementos que no deben descuidarse.
     .row.mb-5.justify-content-between
       .col-lg-6
         .h4 Editoriales
@@ -483,7 +483,7 @@
           .bloque-texto-b__texto
             span.h2.mb-0 Hace referencia a un producto tangible, con un valor simbólico, que tiene como requisito entregar una información persuasiva a un público en particular, con el objetivo de motivar el interés y generar aceptación y gusto por una marca;  
       .col-lg-6.my-auto
-        p.my-auto como producto publicitario es generador de comunicación, busca orientar estrategias para  dar a conocer productos y servicios a partir de la identificar de las necesidades del publico; el producto publicitario cumple con el objetivo cuando comunica de manera convincente la marca influyendo en el comportamiento de compra de un potencial cliente. 
+        p.my-auto como producto publicitario es generador de comunicación, busca orientar estrategias para  dar a conocer productos y servicios a partir de la identificar de las necesidades del público; el producto publicitario cumple con el objetivo cuando comunica de manera convincente la marca influyendo en el comportamiento de compra de un potencial cliente. 
     .row.mb-5.justify-content-between
       .col-lg-6
         .h4 Material P.O.P.
