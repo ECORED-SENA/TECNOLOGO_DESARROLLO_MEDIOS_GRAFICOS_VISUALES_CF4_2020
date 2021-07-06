@@ -60,7 +60,7 @@
             td Dependen de la resolución.
           tr
             td La imagen vectorial se puede agrandar o contraer y no pierde calidad. 
-            td La calidad de la imagen fotográfica depende del número de píxeles por la cual este compuesta, por esto perderá calidad si aumentamos o disminuimos su tamaño, en proporciones fuera de su rango.   
+            td La calidad de la imagen fotográfica depende del número de píxeles por la cual esté compuesta, por esto perderá calidad si aumentamos o disminuimos su tamaño, en proporciones fuera de su rango.   
           tr
             td Las imágenes vectoriales ocupan muy poco espacio.
             td A mayor resolución, mayor peso.
@@ -118,12 +118,12 @@
             i.fas.fa-chevron-circle-right.color-icon
             p
               b Perfil: 
-              b-none el perfil hace referencia al modo de salida del trabajo, si es para imprimir, para la web, una aplicación, etc. generalmente se selecciona para imprimir.
+              b-none el perfil hace referencia al modo de salida del trabajo, si es para imprimir, para la web, una aplicación, etc, generalmente se selecciona para imprimir.
           li.cuadro-amarillo.p-2 
             i.fas.fa-chevron-circle-right.color-icon
             p
               b Número de mesas de trabajo: 
-              b-none refiere a la cantidad de mesas de trabajo que vamos a utilizar (áreas para preparar los diseños).
+              b-none se refiere a la cantidad de mesas de trabajo que vamos a utilizar (áreas para preparar los diseños).
           li.cuadro-amarillo.p-2 
             i.fas.fa-chevron-circle-right.color-icon
             p
@@ -148,7 +148,7 @@
             i.fas.fa-chevron-circle-right.color-icon
             p
               b Unidades:  
-              b-none aquí el programa nos da la opción de seleccionar diferentes unidades de medida como milímetros, centímetros, picas, pixeles. Es recomendable desde el inicio seleccionar centímetros, que es la medida en la cual se trabajo en nuestro medio. 
+              b-none aquí el programa nos da la opción de seleccionar diferentes unidades de medida como milímetros, centímetros, picas, pixeles. Es recomendable desde el inicio seleccionar centímetros, que es la medida en la cual se trabaja en nuestro medio. 
           li.cuadro-amarillo.p-2 
             i.fas.fa-chevron-circle-right.color-icon
             p
@@ -397,7 +397,7 @@
             img(src='@/assets/curso/img52.jpg' alt='AvatarTop' )
           .col-lg-9
             .h3 RGB
-            p  Este modelo de color se crea superponiendo las luces de color rojo (1), verde (2) y azul (3). representa una amplia gama de matices de color. Cada uno de estos tres colores tiene rango de 0 a 255 que representa su intensidad.
+            p  Este modelo de color se crea superponiendo las luces de color rojo (1), verde (2) y azul (3). Representa una amplia gama de matices de color. Cada uno de estos tres colores tiene un rango de 0 a 255 que representa su intensidad.
 
       .tarjeta.color-primario.claro.p-4(titulo="CMYK")
         .row
@@ -553,7 +553,7 @@
             img(src='@/assets/curso/img68.svg' alt='AvatarTop' style='width:84px').mb-3.me-3.d-inline-flex
             p.d-inline-block.pe-5
               b Herramienta texto vertical: 
-              b-none  hace que el texto se dirija esta dirección. 
+              b-none  hace que el texto se dirija a esta dirección. 
         .d-flex
             img(src='@/assets/curso/img69.svg' alt='AvatarTop' style='width:84px').mb-3.me-3.d-inline-flex
             p.d-inline-block.pe-5
