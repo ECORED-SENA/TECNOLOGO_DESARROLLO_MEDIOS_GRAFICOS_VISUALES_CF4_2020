@@ -75,7 +75,7 @@
         .row.justify-content-end
           .col-md-7.mb-4.mb-md-0
             .h4 Investigación 
-            p Antes del brief no se conoce realmente al cliente, como tampoco a la marca que representa; la cual será parte del análisis y trabajo del diseñador durante un periodo de tiempo; es por esto que, la etapa investigativa es esencial. Una vez realizada la investigación permitirá tener un mayor conocimiento del cliente, público objetivo y herramientas requeridas, para la construcción de criterios con los cuales fundamentar la propuesta. Es importante hacer énfasis en el mercado, analizar la competencia por parte de otras marcas del sector, cuáles son las propuestas de valor que ofrecen, los clores que utilizan, las formas que emplean, las tipografías, como dinamizan el espacio, que lenguaje utilizan, cómo son los empaques, que materiales emplean, cuáles son sus estrategias, entre otros aspectos. 
+            p Antes del brief no se conoce realmente al cliente, como tampoco a la marca que representa; la cual será parte del análisis y trabajo del diseñador durante un periodo de tiempo; es por esto que, la etapa investigativa es esencial. Una vez realizada la investigación permitirá tener un mayor conocimiento del cliente, público objetivo y herramientas requeridas, para la construcción de criterios con los cuales fundamentar la propuesta. Es importante hacer énfasis en el mercado, analizar la competencia por parte de otras marcas del sector, cuáles son las propuestas de valor que ofrecen, los colores que utilizan, las formas que emplean, las tipografías, como dinamizan el espacio, que lenguaje utilizan, cómo son los empaques, que materiales emplean, cuáles son sus estrategias, entre otros aspectos. 
         
           .col-md-4
             figure
@@ -301,7 +301,7 @@
               p Indique cómo utilizar las fuentes de tu marca, incluyendo tamaño, espaciado, uso de fondos oscuros y claros, así como combinaciones entre títulos y párrafos de texto; ejemplo, H1, H2, H3 y párrafo (Samsing, 2019). 
     #t_2_2.titulo-segundo
       .h3 2.2 Productos editoriales
-    p.mb-5 Los podemos definir como todos aquellos productos que puedan ser impresos y que tengan como fin llegar a un público determinado; estas obras editoriales corresponden a libros, revistas, folletos, manuales técnicos y didácticos, carteles, y demás productos que requieran impresión y que en su contenido tengan una información concreta para un público especí fico.
+    p.mb-5 Los podemos definir como todos aquellos productos que puedan ser impresos y que tengan como fin llegar a un público determinado; estas obras editoriales corresponden a libros, revistas, folletos, manuales técnicos y didácticos, carteles, y demás productos que requieran impresión y que en su contenido tengan una información concreta para un público específico.
       br
       br
       |Cada producto editorial tiene una manera única de desarrollar su contenido; los cuales cuentan con algunos elementos y requerimientos que deben considerarse en la elaboración de las piezas editoriales; aún cuando la estructura puede ser similar, el desarrollo interno de cada uno será diferente.
@@ -433,7 +433,7 @@
     p.mb-5 Estos materiales didácticos pueden tener varias presentaciones: libros, carteles, videos, cartillas, infografías, entre otros, estos recursos son elaborados a partir de la identificación de la necesidad educativa, y definición del público objetivo y sus características: área de conocimiento, nivel educativo, edad, conocimientos previos, capacidades, habilidades y experiencias; información valiosa que servirá de insumo para generar los conceptos gráficos. 
       br
       br
-      |Siempre será importante reconocer el contexto de los educandos; su desarrollo no solo cognitivo, sino también las habilidades tecnológicas que posee, y que son requeridas para el manejo efectivo de un material didáctico multimediático. Con toda esta, información lo siguiente es determinar su ejecución, es decir que lenguaje narrativo se utilizará en el desarrollo de los contenidos, como será su presentación, y que nivel de interactividad deberá tener.
+      |Siempre será importante reconocer el contexto de los educandos; su desarrollo no solo cognitivo, sino también las habilidades tecnológicas que posee, y que son requeridas para el manejo efectivo de un material didáctico multimediático. Con toda esta información, lo siguiente es determinar su ejecución, es decir que lenguaje narrativo se utilizará en el desarrollo de los contenidos, como será su presentación, y que nivel de interactividad deberá tener.
       br
       br
       |Todo material pedagógico es una pieza comunicativa gráfica con unas especificaciones y manejo del lenguaje textual y de imágenes estudiadas a fondo para llevar un mensaje claro, oportuno y de buen entendimiento a la comunidad estudiantil. 
@@ -551,7 +551,7 @@
       .col-lg-6
         figure 
           img(src='@/assets/curso/img125.jpg' alt='AvatarTop' style='width:621px').m-auto
-    p.mb-5 Por ser un producto relacionado directamente con las agencias de publicidad el material gráfico, de preferencia impreso, es un referente de los servicios y productos que la empresa tiene para el público; pero también se debe reconocer que es un dialogo directo de la marca de la empresa con un potencial cliente; por lo tanto, habrá que pensar que es reflejo de la misma, su carta de presentación, siendo necesario considerar los colores, tipografía, ilustraciones y demás aspectos que representan la marca, convirtiéndose en una valiosa herramienta de marketing.
+    p.mb-5 Por ser un producto relacionado directamente con las agencias de publicidad, el material gráfico, de preferencia impreso, es un referente de los servicios y productos que la empresa tiene para el público; pero también se debe reconocer que es un diálogo directo de la marca de la empresa con un potencial cliente; por lo tanto, habrá que pensar que es reflejo de la misma, su carta de presentación, siendo necesario considerar los colores, tipografía, ilustraciones y demás aspectos que representan la marca, convirtiéndose en una valiosa herramienta de marketing.
     .row.mb-5.justify-content-between
       .col-lg-5
         figure 
