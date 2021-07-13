@@ -164,6 +164,17 @@ export default {
         regional: 'Regional Santander',
       },
       {
+        nombre: [
+          'Zuleidy María Ruiz Torres',
+          'Wilson Andrés Arenales Cáceres',
+          'Gilberto Junior Rodriguez Rodriguez',
+          'Ludwyng Corzo García',
+        ],
+        cargo: 'Produccion audiovisual',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
+        regional: 'Regional Santander',
+      },
+      {
         nombre: 'Camilo Andres Bolaño Rey',
         cargo: 'Desarrollo Front-End',
         centro: 'Centro Industrial del Diseño y la Manufactura',

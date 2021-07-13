@@ -9,10 +9,7 @@
           i.fas.fa-info
       h1 Introducción
     figure.mb-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
-    
+      img(src='@/assets/curso/img0.jpg', alt='Texto que describa la imagen')
     p.mb-5 El manejo de la imagen como medio de comunicación, presenta muchos retos y responsabilidades, especialmente cuando el profesional se enfrenta al complejo trabajo y desarrollo de dar a conocer por medio de sus ideas, una marca o producto, que entrará a competir por ocupar un lugar en la mente de los consumidores respecto al resto de sus competidores. El cliente de este momento es una persona proactiva, con ideas claras, con una percepción única de la imagen, educada a lo largo del tiempo por este bombardeo constante de todos los medios de comunicación. Así se hace necesario que el diseñador, posea herramientas conceptuales, tecnológicas y actitudinales, en el ejercicio de su oficio.
       br
       br

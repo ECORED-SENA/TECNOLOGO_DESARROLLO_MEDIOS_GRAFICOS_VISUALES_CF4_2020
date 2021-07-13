@@ -48,7 +48,7 @@
           tr
             td 
               figure
-                img(src='@/assets/curso/img11.svg', alt='imagen vectorial calavera con fuego')
+                img(src='@/assets/curso/img11.jpg', alt='imagen vectorial calavera con fuego')
             td 
               figure
                 img(src='@/assets/curso/img12.jpg', alt='fotografía de perro')
@@ -189,11 +189,10 @@
         .h3.mb-2 F- Mesas de trabajo: 
         p Es el espacio de trabajo, que en Illustrator llamaremos mesas de trabajo.
     p.mb-5 El siguiente video le permitirá conocer la interfaz de usuario de Illustrator
-      //! TODO ---- AGREGAR VIDEO CUANDO ESTE LISTO  
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/C4xHhqgpdLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: Interfaz illustrator
     .row.mb-5.justify-content-center
       .col-md-4.col-lg-4.mb-5.mb-lg-0
         .tarjeta-avatar-arreglo
@@ -259,8 +258,8 @@
     p.mb-5 En el siguiente video aprenderá a utilizar correctamente las herramientas de selección.
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/29t5nrBPprE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: Herramientas de selección 
     h3 Herramientas de dibujo 
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
       .row(titulo="Pluma").justify-content-center.p-4
@@ -383,8 +382,8 @@
     p.mb-5 En el siguiente video conocerá las principales herramientas de dibujo para la ilustración.
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/PSA5XZf0BZ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: Herramientas de dibujo
     .h4 Herramientas de color
     p.mb-5 Illustrator presenta una gran variedad de herramientas y modos de color para utilizar y trabajar no solo el tradicional CMYK (siglas de Cyan, Magenta, Yellow y Key), que se conoce. 
       br
@@ -493,9 +492,10 @@
     figure.mb-5
       img(src='@/assets/curso/img62.svg' alt='AvatarTop' ).m-auto
     p.mb-5 En el siguiente video aprenderá a manejar muestras de color, crear nuevos colores y gestionar paletas de colores.
+    //TODO! FALTA ESTE VIDEO, NO ESTA DESARROLLADO
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/VpW5xHRPR7I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video: Leyenda del video
     .h4 Herramientas de texto
     p.mb-5 Al utilizar la herramienta “texto” es muy importante tener en cuenta todas las variaciones en la barra de herramientas.
@@ -568,11 +568,10 @@
           img(src='@/assets/curso/img70.svg' alt='AvatarTop')
     p.mb-5 En el siguiente video podrá reconocer las diferentes herramientas de texto y párrafo; modificar y editar texto, y generar efectos.
 
-    //! TODO ---- AGREGAR VIDEO CUANDO ESTE LISTO 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/35-j5sA-GnQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: Herramientas de texto
     .row.mb-3.justify-content-center  
       .col-lg-10
           .bloque-texto-a.color-primario.p-4.p-md-5.mb-5.color-gris
@@ -603,16 +602,15 @@
     figure.mb-5 
       img(src='@/assets/curso/img73.jpg' alt='AvatarTop')
     p.mb-5 En el siguiente video aprenderá a seleccionar una forma bidimensional y convertirla en tridimensional 
-    //! TODO ---- AGREGAR VIDEO CUANDO ESTE LISTO 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
-    p.mb-5 En el siguiente video aprenderá a seleccionar una forma bidimensional y convertirla en tridimensional 
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/Ao8KNnWBpEg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: Tridimensionalidad
+    p.mb-5 En le siguiente video aprenderá a manejar la herramienta buscatrazos para crear nuevas formas a partir de formas básicas 
     //! TODO ---- AGREGAR VIDEO CUANDO ESTE LISTO  
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/ftf9dt56U00" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video: Leyenda del video
     .h4 Almacenamiento, importación y exportación
     p.mb-5 Al almacenar elementos en Illustrator es importante tener en cuenta:
@@ -653,11 +651,10 @@
           b Empaquetar archivos: 
           b-none función disponible en Adobe Illustrator CS6, CC y posteriores. Puede recopilar los archivos utilizados, incluidas las fuentes (a excepción del chino, coreano y japonés) y los gráficos enlazados para distribuirlos de manera más fácil. Al empaquetar un archivo, se crea una carpeta que contiene el documento de Illustrator junto con todas las fuentes necesarias, gráficos enlazados y un informe del paquete. Este informe, se guarda como un archivo de texto, e incluye información sobre los archivos empaquetados (Adobe, 2017).
     p.mb-5 En el siguiente video aprenderá a importar y exportar elementos desde Illustrator y a enlazar e incrustar imágenes. 
-     //! TODO ---- AGREGAR VIDEO CUANDO ESTE LISTO  
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/r65a7uVIovA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: Importar y exportar
     .h5.mb-5 Para ampliar la información sobre el uso de Illustrator, se recomienda consultar la Ayuda de Adobe Illustrator CC, también disponible en el material complementario de este programa. 
     .row
       .col-lg-5
@@ -697,14 +694,14 @@ export default {
   data: () => ({
     datosSlyder1: [
       {
-        imagen: require('@/assets/curso/img5.svg'),
+        imagen: require('@/assets/curso/img5.jpg'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
-        imagen: require('@/assets/curso/img6.svg'),
+        imagen: require('@/assets/curso/img6.jpg'),
       },
       {
-        imagen: require('@/assets/curso/img7.svg'),
+        imagen: require('@/assets/curso/img7.jpg'),
       },
     ],
     datosSlyder2: [
