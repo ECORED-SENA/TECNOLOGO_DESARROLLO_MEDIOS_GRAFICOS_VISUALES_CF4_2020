@@ -137,12 +137,6 @@ export default {
         centro:
           'Centro para la Industria y la Comunicación Gráfica – Regional Distrito Capital',
       },
-      {
-        nombre: 'Wilmer Andrés Peña Carvajal',
-        cargo: 'Instructor',
-        centro:
-          'Centro para la Industria de la Comunicación Gráfica – Regional Distrito Capital',
-      },
     ],
     desarrolloProducto: [
       {
